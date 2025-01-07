@@ -1,0 +1,31 @@
+# Template
+# Incident Report Template
+
+## Incident Name
+[Provide a brief, descriptive title for the incident]
+
+## Date and Time
+- **Discovered:** [Insert Date and Time]
+- **Occurred:** [Insert Date and Time, if known]
+
+## Summary
+[Describe what happened, the affected systems, and how it was discovered.]
+
+## Impact
+[Summarize the scope and severity of the incident, e.g., affected users, systems, or data.]
+
+## Root Cause
+[If known, explain the underlying cause of the incident.]
+
+## Key Actions Taken
+- [Action 1]
+- [Action 2]
+- [Action 3]
+
+## Current Status
+[Indicate whether the incident is resolved, ongoing, or under investigation.]
+
+## Recommendations
+- [Recommendation 1]
+- [Recommendation 2]
+- [Recommendation 3]
